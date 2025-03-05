@@ -20,7 +20,7 @@ Probably not? I could maybe make a webpage for testing the model online but the 
 - Nicholas Maye, who is responsible for co-presenting the project
 - Professor Yuehan Yin, who taught the course
 - Burke Libbey, author of the Huggingface database used
-
 <br>
-Repo by [Aidan Haurin](https://github.com/aidanhaurin)
+
+Repo by [Aidan Haurin](https://github.com/aidanhaurin).
 Updated as of: March 5, 2025
