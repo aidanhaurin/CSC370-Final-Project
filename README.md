@@ -9,7 +9,7 @@ A two-person group project where I primarily designed and coded a neural network
 
 Probably not? I could maybe make a webpage for testing the model online but the model itself is more or less complete, I think.
 
-## Resources
+## Resources Used
 - [Google Colaboratory](https://colab.google/)
 - [PyTorch Library](https://pytorch.org/)
 - [colors.jsonl](https://huggingface.co/datasets/burkelibbey/colors/blob/main/colors.jsonl)
