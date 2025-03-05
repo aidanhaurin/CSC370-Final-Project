@@ -21,5 +21,5 @@ Probably not? I could maybe make a webpage for testing the model online but the 
 - Professor Yuehan Yin, who taught the course
 - Burke Libbey, author of the Huggingface database used
 
-
-2025 [Aidan Haurin](https://github.com/aidanhaurin)
+Repo by [Aidan Haurin](https://github.com/aidanhaurin)
+Updated as of: March 5, 2025
