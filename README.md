@@ -13,7 +13,7 @@ Probably not? I could maybe make a webpage for testing the model online but the 
 ## Resources Used
 - [Google Colaboratory](https://colab.google/)
 - [PyTorch Library](https://pytorch.org/)
-- [colors.jsonl](https://huggingface.co/datasets/burkelibbey/colors/blob/main/colors.jsonl)
+- ["colors.jsonl", a database of colors I found on Huggingface.co](https://huggingface.co/datasets/burkelibbey/colors/blob/main/colors.jsonl)
 <br>
 
 ## Credits
